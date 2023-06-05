@@ -1,0 +1,17 @@
+README.md
+setup.py
+bin/dostoevsky
+dostoevsky/__init__.py
+dostoevsky/__main__.py
+dostoevsky/corpora.py
+dostoevsky/models.py
+dostoevsky/tokenization.py
+dostoevsky.egg-info/PKG-INFO
+dostoevsky.egg-info/SOURCES.txt
+dostoevsky.egg-info/dependency_links.txt
+dostoevsky.egg-info/requires.txt
+dostoevsky.egg-info/top_level.txt
+dostoevsky/data/__init__.py
+dostoevsky/data/corpora/__init__.py
+dostoevsky/data/models/__init__.py
+requirements/base.txt
